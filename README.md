@@ -1,5 +1,5 @@
-# song-creator-ai
-It's a deep learning project for Deep Learning with Python lecture. Theoricly an AI agent creates songs with datasets and feedbacks. 
+# MelodAI
+MelodAI is an AI-powered music generator that learns your unique style and creates original compositions for you. It first trains on a publicly available music dataset using supervised learning to understand musical patterns. Then, with your feedback, it improves its composition skills through reinforcement learning.
 
 # Installation
 Download MuseHub and MuseScore from [here](https://www.musehub.com/). 
