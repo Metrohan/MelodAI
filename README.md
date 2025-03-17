@@ -4,7 +4,7 @@ It's a deep learning project for Deep Learning with Python lecture. Theoricly an
 # Installation
 Download MuseHub and MuseScore from [here](https://www.musehub.com/). 
 
-After that, you must install music21 using pip install.
+After that, you must install music21 with using pip install.
 
 ```
 pip install music21
