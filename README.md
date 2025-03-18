@@ -1,4 +1,4 @@
-# MelodAI
+# MelodAI (UNDER DEVELOPMENT)
 MelodAI is an AI-powered music generator that learns your unique style and creates original compositions for you. It first trains on a publicly available music dataset using supervised learning to understand musical patterns. Then, with your feedback, it improves its composition skills through reinforcement learning.
 
 # Installation
