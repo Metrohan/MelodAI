@@ -38,6 +38,12 @@ Make sure you have **Python 3.7+** installed. Then, install the dependencies:
 ```bash
 pip install -r requirements.txt
 ```
+For playing compositions, you must install [MuseScore](https://musescore.org/en) and configure the music21 to play with it.
+
+```bash
+import music21
+music21.configure.run()
+```
 
 ## 🎛️ How to Use
 
